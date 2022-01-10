@@ -1,0 +1,24 @@
+.links a {
+    
+    position:relative;
+    width: 70px;
+    height: 70px;
+    margin: 1.5rem;  
+    text-align: center;
+    line-height: 65px;
+    font-size: 1.7rem;
+    border-radius: 50%;
+    color: rgb(0, 0, 0);
+    overflow: hidden;
+}
+.social-media-links{
+    position: relative;
+    text-align: center;
+    top:5rem;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+#since{
+     
+    font-size: 10px;
+  }
